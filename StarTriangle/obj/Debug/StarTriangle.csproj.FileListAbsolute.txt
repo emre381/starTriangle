@@ -1,0 +1,7 @@
+C:\Users\cigo_\source\repos\StarTriangle\StarTriangle\bin\Debug\StarTriangle.exe.config
+C:\Users\cigo_\source\repos\StarTriangle\StarTriangle\bin\Debug\StarTriangle.exe
+C:\Users\cigo_\source\repos\StarTriangle\StarTriangle\bin\Debug\StarTriangle.pdb
+C:\Users\cigo_\source\repos\StarTriangle\StarTriangle\obj\Debug\StarTriangle.csproj.AssemblyReference.cache
+C:\Users\cigo_\source\repos\StarTriangle\StarTriangle\obj\Debug\StarTriangle.csproj.CoreCompileInputs.cache
+C:\Users\cigo_\source\repos\StarTriangle\StarTriangle\obj\Debug\StarTriangle.exe
+C:\Users\cigo_\source\repos\StarTriangle\StarTriangle\obj\Debug\StarTriangle.pdb
